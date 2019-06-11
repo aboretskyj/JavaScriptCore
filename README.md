@@ -1,1 +1,1 @@
-# JavaScriptCore
+# JavaScriptCore lesson 02
